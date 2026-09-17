@@ -1,0 +1,9 @@
+.profile-img {
+    width: 160px;
+    height: 160px;
+    border-radius: 999px;
+    border: 4px solid rgba(255, 255, 255, 0.7);
+}
+section {
+    scroll-margin-top: 90px;
+}
